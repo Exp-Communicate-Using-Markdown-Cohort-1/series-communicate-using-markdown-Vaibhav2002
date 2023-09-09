@@ -14,3 +14,12 @@ const NoteComponent = ({}: NoteProps) => {
   )
 }
 ```
+
+### Tasks
+
+- [x] Add Headings
+- [x] Add Image
+- [x] Add Code Block
+- [x] Add List
+- [ ] Merge
+- [ ] Complete   
