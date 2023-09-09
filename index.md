@@ -6,3 +6,11 @@
 ###### Heading 6
 
 ![Octocat Image](https://octodex.github.com/images/yaktocat.png)
+
+```tsx
+const NoteComponent = ({}: NoteProps) => {
+  return (
+    <div></div>
+  )
+}
+```
